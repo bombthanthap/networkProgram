@@ -1,1 +1,1 @@
-thanthapsuksanit@gmail.com,0889323786,thanthapsuksanit@gmail.com
+email_sender,sender_password,email_recieve
