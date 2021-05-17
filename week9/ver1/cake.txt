@@ -1,0 +1,8 @@
+CoffeeCake 60
+RedVelvetCake 85
+BlackForestCake 70
+BostonCreamCake 55
+LagosChocolate 65
+KilburnChocolateCake 75
+CartonHillCake 45
+QueenParkCake 65

@@ -1,0 +1,8 @@
+Lattae 65
+Espresso 55
+IceLattae 45
+ValeCoffee 55
+Cappuccino 65
+AfricanCoffee 65
+AmericanCoffee 75
+IcedCappuccino 65

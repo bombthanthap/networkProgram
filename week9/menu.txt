@@ -1,0 +1,6 @@
+Fried_Rice 40
+Congee 40
+Tom_Yum_Kung 70
+Grilled_Chicken 55
+Spicy_Noodle_Salad 65
+Drink 15
